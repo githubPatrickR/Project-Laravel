@@ -1,0 +1,5 @@
+This is an exercise project with Laravel which contains product management and user management. At the home page, there are two buttons. 
+
+Clicking the button "Product Management" (no user login is needed) leads the user to the page where the products are displayed. At there, the user can see all the products, add new products, update products, delete products as well as upload images (need to have a w:h ratio of 3:4) for the products.  A default picture is assigned when a new product is created and can be replaced by a later uploaded image.
+
+Clicking the button "Users" leads the user to where the user is able to select the product. The user first needs to sign up and sign in and then come to the User Profile page. From there, by clicking the "Products" button at the header, the user goes to the products page where all products are displayed and the user is able to "add" or "remove" products.
